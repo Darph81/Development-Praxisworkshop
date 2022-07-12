@@ -2,6 +2,7 @@ name: .NET Core CI
 
 on: [push]
 
+
 env:
   AZURE_WEBAPP_NAME: darph8101
   AZURE_WEBAPP_PACKAGE_PATH: '.'
